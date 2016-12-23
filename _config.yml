@@ -114,7 +114,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/adp.jpg"
     date: "August 2016 - Present"
-    description: "Software Engineer"
+    description: "Software Architect"
   - image: "/img/timeline/ilegra.jpg"
     date: "December 2015 - July 2016"
     description: "Software Engineer"
